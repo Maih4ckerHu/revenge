@@ -6,8 +6,8 @@
 #if you use without giving me credit then you won't became a programmer so please respect
 #Youtube channel : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ
 #Github (coded by vaimpier ritik ) >>> : https://github.com/VaimpierOfficial
-#For business : sonuv0085@gmail.com
-#vaimpier
+#For business : fultushs@gmail.com
+#Mr.H4cker
 #==========================================================================================================================
 #==========================================================================================================================
 
@@ -23,14 +23,15 @@ printf "\e[1;91m       \___/  (____  /__|__|_|  /    \e[0m\e[1;93m     /____  >_
 printf "\e[1;91m                   \/         \/     \e[0m\e[1;93m          \/      \/     \/  \e[0m\n "
 
 printf "\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By VaimpierOfficial (Vaimpier Ritik)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @vaimpier                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By VaimpierOfficial (J.B.S.N)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @Mr.H4cker                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           JAY BABA SHOBHNATH          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
 printf "         testing in an authorized simulated cyberattack\n"
 printf "         Attacking targets without prior mutual consent\n"
 printf "         is illegal!\n"
+printf ".         JAY BABA SHOBHNATH
 printf "\n"
 
 
@@ -42,18 +43,18 @@ upload() {
 
 clear
 printf "[+] HEY BRO PLEASE WAIT ......................... \n"
-printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'sonuv0085@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/VaimpierOfficial \n"
+printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL :'fultushs@gmail.com' \n Mr.H4cker \n GITHUB : https://github.com/MaiH4ckerHu \n"
 sleep 7
 clear
 cd
 rm -rf Vaim-sms
-git clone https://github.com/VaimpierOfficial/Vaim-sms
-cd Vaim-sms
+git clone https://github.com/Maih4ckerHu/revenge
+cd revenge
 chmod +x *
 clear
 printf "[+] SCRIPT UPDATED PLEASE WAIT ............. "
 sleep 2
-bash Vaim-sms.sh 
+bash revenge.sh
 
 }
 
