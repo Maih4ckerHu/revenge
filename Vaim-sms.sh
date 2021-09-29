@@ -61,7 +61,7 @@ chmod +x *
 clear
 printf "[+] SCRIPT UPDATED PLEASE WAIT ............. "
 sleep 2
-bash revenge.sh
+bash Vaim-sms.sh 
 
 }
 
